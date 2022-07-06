@@ -7,21 +7,7 @@ import javafx.scene.layout.Pane;
 
 import java.io.IOException;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which implements the side menu, close button &
- * minimize button functionality and effects. Also, animates
- * the go back button.
- * Extends abstract class DefaultButtons.
- *
- * Also implements effects for the goBack button.
- */
+
 public abstract class DefaultNavigation extends DefaultButtons{
     // Menu panes
     @FXML
