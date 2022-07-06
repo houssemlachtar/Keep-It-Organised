@@ -12,17 +12,7 @@ import javafx.scene.input.MouseEvent;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which handles the functionality of alert, which pops up when
- * the user tries to delete a Period.
- */
+
 public class TimeDeletePeriodAlertController extends DefaultButtons implements Initializable {
     @FXML
     private Label alertMessage;
