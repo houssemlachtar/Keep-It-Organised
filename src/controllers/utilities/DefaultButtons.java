@@ -5,18 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Abstract class for default buttons. Enables styling and functionality
- * of minimize and close buttons.
- * Also implements methods which enable stage dragging.
- */
+
 public abstract class DefaultButtons {
     // Navigation buttons
     @FXML
