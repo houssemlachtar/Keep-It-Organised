@@ -11,17 +11,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.Objects;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which has helper methods used to setup scenes. Methods here
- * are used in more than one controller/scene.
- */
+
 public class SetupScene {
 
     /**
