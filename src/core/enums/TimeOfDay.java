@@ -2,17 +2,7 @@ package core.enums;
 
 import java.time.LocalTime;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Enum representing time of day in the system.
- * Either Morning, Afternoon, Evening or Night
- */
+
 public enum TimeOfDay {
     MORNING("Morning"),
     AFTERNOON("Afternoon"),
