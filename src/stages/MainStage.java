@@ -11,16 +11,7 @@ import javafx.stage.StageStyle;
 
 import java.io.IOException;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class representing the main stage/window of the application.
- */
+
 public class MainStage {
     public MainStage(Stage primaryStage) throws IOException {
         // Loads the required scene
