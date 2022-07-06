@@ -27,16 +27,7 @@ import java.time.LocalDate;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which handles Tasks Tab functionality and UI.
- */
+
 public class TasksController extends DefaultNavigation implements Initializable {
     // Stacked bar chart
     @FXML
