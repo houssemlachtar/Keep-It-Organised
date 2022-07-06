@@ -17,17 +17,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Controller for Period popup in the Time tab.
- * Used when a Period is added.
- */
+
 public class TimePopupPeriodController extends DefaultButtons implements Initializable {
     // Period name field
     @FXML
