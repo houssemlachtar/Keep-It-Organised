@@ -13,17 +13,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.Pane;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class for Marks view popups. Handles button styling
- * and scene setup.
- */
+
 public abstract class MarksDefaultPopup extends DefaultButtons{
     // Add/Edit button
     @FXML
