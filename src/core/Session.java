@@ -5,21 +5,7 @@ import core.enums.MarksSelection;
 import javafx.application.HostServices;
 import javafx.stage.Stage;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which saves the user which is currently logged in.
- * Used for access of the logged in user's data during different points
- * of the application.
- *
- * Also saves data of the current session for functionality of different
- * application windows.
- */
+
 public class Session {
     // Variables for dragging the Stage
     private static Stage mainStage;
