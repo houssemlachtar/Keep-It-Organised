@@ -16,17 +16,7 @@ import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Controller for Event popup in the Schedule tab.
- * Used when a Recurring Event is added.
- */
+
 public class SchedulePopupRecurringEventController extends DefaultNavigation implements Initializable {
     // Day of Week combo box
     @FXML
