@@ -18,16 +18,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which handles Register page functionality and UI.
- */
+
 public class RegisterPageController extends DefaultButtons implements Initializable {
     // Labels
     @FXML
