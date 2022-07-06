@@ -4,16 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Class which handles Database initialization and connections.
- */
+
 public class Database {
     private final static String URL = "jdbc:sqlite::resource:database/organisedDB.db";
     private static Connection connection = null;
