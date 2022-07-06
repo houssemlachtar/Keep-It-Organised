@@ -16,7 +16,7 @@
             xmlns="http://javafx.com/javafx/8.0.241" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="controllers.LoginPageController">
    <Pane prefHeight="900.0" prefWidth="701.0" style="-fx-background-color: #E6BB9A;">
-      <Label layoutX="127.0" layoutY="263.0" text="Organised.">
+      <Label layoutX="127.0" layoutY="263.0" text="Keep It Organised.">
          <font>
             <Font name="Arial Rounded MT Bold" size="50.0"/>
          </font>
