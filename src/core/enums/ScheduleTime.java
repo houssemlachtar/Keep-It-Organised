@@ -3,18 +3,7 @@ package core.enums;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Enum representing time available for event scheduling in the system.
- * Available times are: 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00.
- * Last time (17:00) should not be available as event start time.
- */
+
 public enum ScheduleTime {
     NINE("9:00"),
     TEN("10:00"),
