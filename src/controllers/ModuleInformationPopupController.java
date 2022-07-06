@@ -19,18 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * Organised.
- * Copyright (c) 2021, Agne Knietaite
- * All rights reserved.
- *
- * This source code is licensed under the GNU General Public License, Version 3
- * found in the LICENSE file in the root directory of this source tree.
- *
- * Controller for Module Information popup in the Schedule & Tasks tabs.
- * Used when user wishes to view information about modules, which are
- * present in the selected period.
- */
+
 public class ModuleInformationPopupController extends DefaultNavigation implements Initializable{
     // Title label
     @FXML
