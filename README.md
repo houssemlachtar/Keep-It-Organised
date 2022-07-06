@@ -31,7 +31,7 @@ liking or suggest improvements;
 - The main start point of the system is [Main.java](src/Main.java);
   
 - A [jar file](output/Organised.jar) is provided as well. Keep in mind that an SQLite JDBC jar file will need to be in the same
-  directory as the jar file for Organised to open.
+  directory as the jar file for desktop app to open.
   
 # User Guide
 Organised  consists of 4 main sections: Marks, Time, Schedule and Tasks. Whilst navigating through the
